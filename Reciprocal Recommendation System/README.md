@@ -17,7 +17,7 @@ Akiva Kleinerman, Ariel Rosenfeld(2021)의 Supporting users in fnding successful
   추천 받을 유저와 추천 후보 집단간의 상호 관심도를 기반으로 한 협업필터링과 추천 받을 유저의 긍정 응답 예측모델을 통해 추천 유저가 제공되고
   추천된 유저와 추천받을 유저의 feature간 correlation을 기반으로 'explanation'이 가능한 상관관계 기반 추천 설명을 제공합니다.
 
-<algorithm>
+`algorithm`
 
 (1) Reciprocal Collaborative Filtering Recommendation)
  - 추천 받을 유저 x와 추천 후보 집단 유저 y 간의 상호 관심도를 연산함
@@ -31,11 +31,11 @@ Akiva Kleinerman, Ariel Rosenfeld(2021)의 Supporting users in fnding successful
   - 추천 받을 유저 x와 추천된 후보 y 와의 특성값과의 상관관계를 측정하여 상관관계가 가장 큰 특성값 상위 k개로 추천의 이유를 설명함
 
 
-<전통적 추천시스템과 차이>
+`전통적 추천시스템과 차이`
 - user에게 item을 추천하는 것은 user의 선호(preference) 만 고려하면 되지만 user-user의 경우에는 추천 '받는' user와 추천 '된' user의 선호(preference)에 따라 추천의 성공률이 달려있음
 - 전통적인 people to people 추천은 추천을 받아들이는 유저에게만 결정되거나, 추천 받는 유저와 추천 되는 유저의 동일 가중치인 semi-personalized(반개인화) 추천에 가까움
 - 해당 추천알고리즘은 추천 받는 유저와 추천 되는 유저간의 'successful interaction(성공적인 상호작용)' 을 기반으로 한 추천 알고리즘
 
 
-<한계점>
+`한계점`
 - 실제 서비스에 적용해봤을 때 유의미한 상관관계 feature가 나오지 않아 설명이 어려운 부분이 있었음
