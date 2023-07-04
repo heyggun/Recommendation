@@ -4,9 +4,9 @@ Akiva Kleinerman, Ariel Rosenfeld(2021)의 Supporting users in fnding successful
 
 ### Paper
 
-| Paper | author | Link |
+| NO | Paper | Link |
 | --- | --- | --- |
-| Providing Explanations for Recommendations in Reciprocal Environments |  Akiva Kleinerman, Ariel Rosenfeld, Sarit Kraus | [Link](https://arxiv.org/pdf/1807.01227.pdf)
+| 1 |  Providing Explanations for Recommendations in Reciprocal Environments | [Link](https://arxiv.org/pdf/1807.01227.pdf)
 
 ### Easy
 | 번호 | 문제 | date & Solution |
