@@ -7,6 +7,7 @@ Akiva Kleinerman, Ariel Rosenfeld(2021)의 Supporting users in fnding successful
 | NO | Paper | Link |
 | --- | --- | --- |
 | 1 |  Providing Explanations for Recommendations in Reciprocal Environments | [Link](https://arxiv.org/pdf/1807.01227.pdf)
+| 2 | Supporting users in finding successful matches in reciprocal recommender systems | [Link](https://www.researchgate.net/publication/346489424_Supporting_users_in_finding_successful_matches_in_reciprocal_recommender_systems)
 
 
 ### Description
