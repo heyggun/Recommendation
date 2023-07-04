@@ -8,7 +8,6 @@ Akiva Kleinerman, Ariel Rosenfeld(2021)의 Supporting users in fnding successful
 | --- | --- | --- |
 | 1 |  Providing Explanations for Recommendations in Reciprocal Environments | [Link](https://arxiv.org/pdf/1807.01227.pdf)
 
----------
 
 ### Description
 
