@@ -1,9 +1,9 @@
 ## Recommendation System 
 ---
 
-### 1. Cotent-based Recommender
+### 1. Cotent-based Filtering
 
-1-1. Content-based filtering | movieLen dataset
+1-1. Content-based filtering | book dataset
 
 ### 2. Collaborative Filtering Recommender
 
