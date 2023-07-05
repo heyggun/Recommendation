@@ -1,6 +1,6 @@
 # model_based_Collaborative Filtering
 
-### 1. CF_recommendation의 model based Learning
+### CF_recommendation의 model based Learning
   - Matrix Factorization을 ALS(Alternating Least Squares) 알고리즘을 통해 계산함
   - user와 item의 latent factor을 하나씩 고정시켜 Loss function을 convex function으로 만들어 최적의 rating matrix를 계산 
 
