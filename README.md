@@ -22,7 +22,7 @@
 2-3. Neural Graph Collaborative Filtering
 - Neural + graph를 활용한 영화 추천 알고리즘
 
-### [3] Reciprocal Recommendation System (상호 추천 시스템) user-user recommender**
+### [3] Reciprocal Recommendation System (상호 추천 시스템) user-user recommender
 - 일명 상호 추천 시스템 논문 정리 : https://www.notion.so/kimgeonhee/reciprocal-recommendation-system-89bfa66c913e496083a5415a0c6924da
 - 기존의 user-item 이 아니라 user-user 즉 human-human 추천에서 양방향 선호를 반영할 수 있는 알고리즘
 
